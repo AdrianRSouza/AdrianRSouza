@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindo ao meus perfil 👋
 
-<!--
-**AdrianRSouza/AdrianRSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Adrian Rodrigues de Souza
 
-Here are some ideas to get you started:
+- Estou esdutando na [Alura](https://.alura.com.br)
+- Estou me desenvolvedo em HTML/CSS e JavaScript
+- Estou usando esse espaço para compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato comigo 📫
+
+- Discord: iBat#3311
+
+  ![](https://cdn.discordapp.com/attachments/1104356865976053813/1119747323619184731/image0.gif)
