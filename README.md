@@ -8,6 +8,6 @@ Meu nome é Adrian Rodrigues de Souza
 
 ### Entre em contato comigo 📫
 
-- Discord: iBat#3311
+- Discord: .manobat
 
   ![](https://cdn.discordapp.com/attachments/1104356865976053813/1119747323619184731/image0.gif)
