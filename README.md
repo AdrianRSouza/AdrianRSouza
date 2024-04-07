@@ -2,7 +2,6 @@
 
 Meu nome é Adrian Rodrigues de Souza
 
-- Estou esdutando na [Alura](https://.alura.com.br)
 - Estou me desenvolvedo em HTML/CSS e JavaScript
 - Estou usando esse espaço para compartilhar meus projetos
 
